@@ -13,6 +13,7 @@ To decode an IP address from a string:
 
 # Library Usage
 The library consists of two functions:
+
 `decodeIP(wordcombo)`:
 - Accepts a string, returns an IP
 - Will throw an `Error` if `wordcombo` is not exactly 4 space-delimited words
