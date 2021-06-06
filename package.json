@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/BobbyRaduloff/ipwords/issues"
   },
-  "homepage": "https://github.com/BobbyRaduloff/ipwords#readme"
+  "homepage": "https://github.com/BobbyRaduloff/ipwords#readme",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
 }
