@@ -1,6 +1,6 @@
 {
   "name": "ipwords",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Simple library that transforms IPv4 addresses into easy to remember word strings.",
   "main": "index.js",
   "bin": {

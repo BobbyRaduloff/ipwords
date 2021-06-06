@@ -6,7 +6,7 @@ Simple library that transforms IPv4 addresses into easy to remember word strings
 
 # Command-line Usage
 To encode an IP address to a string:
-`ipwords -d "192.0.0.1"`
+`ipwords -e "192.0.0.1"`
 
 To decode an IP address from a string:
 `ipwords -d "not that that tennis"`
