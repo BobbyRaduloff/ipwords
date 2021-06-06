@@ -1,0 +1,24 @@
+{
+  "name": "ipwords",
+  "version": "1.0.0",
+  "description": "Simple library that transforms IPv4 addresses into easy to remember word strings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BobbyRaduloff/ipwords.git"
+  },
+  "keywords": [
+    "IPv4",
+    "Networking",
+    "Hash"
+  ],
+  "author": "Boris Radulov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BobbyRaduloff/ipwords/issues"
+  },
+  "homepage": "https://github.com/BobbyRaduloff/ipwords#readme"
+}
