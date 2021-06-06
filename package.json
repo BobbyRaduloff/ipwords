@@ -1,10 +1,10 @@
 {
   "name": "ipwords",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Simple library that transforms IPv4 addresses into easy to remember word strings.",
   "main": "index.js",
-  "bin" : {
-    "ipwords" : "./index.js"
+  "bin": {
+    "ipwords": "./index.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/BobbyRaduloff/ipwords#readme",
   "dependencies": {
+    "ipwords": "^1.0.1",
     "yargs": "^17.0.1"
   }
 }
